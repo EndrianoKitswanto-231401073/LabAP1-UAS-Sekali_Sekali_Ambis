@@ -1,6 +1,6 @@
 # LabAP1-UAS-Sekali_Sekali_Ambis
 ## Anggota 
-1. Alya Debora Panggabean (231401073)
+1. Alya Debora Panggabean (231401010)
 2. Priadi Cuanda (231401058)
 3. Endriano Kitswanto (231401073)
 ## Deskripsi Program

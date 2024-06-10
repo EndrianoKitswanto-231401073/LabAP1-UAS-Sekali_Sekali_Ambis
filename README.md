@@ -4,7 +4,7 @@
 2. Priadi Cuanda (231401058)
 3. Endriano Kitswanto (231401073)
 ## Deskripsi Program
-Portal ini memiliki beberapa fitur, yaitu :
+Program ini memiliki beberapa fitur, yaitu :
 1. Dapat memasukkan nama serta ID petugas
 2. Dapat memasukkan opsi menu yang tersedia
 3. Dapat menambah daftar kendaraan
